@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://pichayean.github.io/service-registry/static/css/main.537dd2c4.css",
-    "main.js": "https://pichayean.github.io/service-registry/static/js/main.f480a26b.js",
+    "main.js": "https://pichayean.github.io/service-registry/static/js/main.bc659f24.js",
     "static/media/auth.png": "https://pichayean.github.io/service-registry/static/media/auth.20d5979b439e1531640d.png",
     "static/media/Navbar.png": "https://pichayean.github.io/service-registry/static/media/Navbar.f96a9f58c491b9acda99.png",
     "static/media/Project3.png": "https://pichayean.github.io/service-registry/static/media/Project3.378b532af038bf47559c.png",
@@ -9,10 +9,10 @@
     "static/media/Project1.png": "https://pichayean.github.io/service-registry/static/media/Project1.d5952144f76e2cb9e5d6.png",
     "index.html": "https://pichayean.github.io/service-registry/index.html",
     "main.537dd2c4.css.map": "https://pichayean.github.io/service-registry/static/css/main.537dd2c4.css.map",
-    "main.f480a26b.js.map": "https://pichayean.github.io/service-registry/static/js/main.f480a26b.js.map"
+    "main.bc659f24.js.map": "https://pichayean.github.io/service-registry/static/js/main.bc659f24.js.map"
   },
   "entrypoints": [
     "static/css/main.537dd2c4.css",
-    "static/js/main.f480a26b.js"
+    "static/js/main.bc659f24.js"
   ]
 }
